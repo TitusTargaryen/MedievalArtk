@@ -1,0 +1,125 @@
+{
+"settings": {
+"openbutton": 1,
+"hideicon": false,
+"hideiconafter": 60,
+"iconurl": "https://i.imgur.com/250fY57.jpg",
+"disableicontext": false,
+"iconposition": 1,
+"icontextcolor": 8,
+"openonstart": true,
+"openonstartonlynewplayers": true,
+"updateinterval": 12
+},
+"tabs": [
+{
+"layout": 1,
+"buttontext": "Welcome",
+"imageurl": "https://i.imgur.com/250fY57.jpg",
+"content": [
+{
+"title": "🏰 Welcome to Medieval Ark RP",
+"text": "A fully immersive medieval-fantasy server for ARK: Survival Ascended.\n\n🔗 Join our Discord: https://discord.gg/hzyMrwNTD4\n\nPrepare to survive, thrive, and forge your legend across three powerful lands..."
+}
+]
+},
+{
+"layout": 1,
+"buttontext": "Lore",
+"imageurl": "https://i.imgur.com/250fY57.jpg",
+"content": [
+{
+"title": "🌍 The Broken World – Server Lore",
+"text": "In a forgotten age, the world was split into some great islands, each guarded by primordial forces. Fearing mankind’s ambition, the Gods infused the essence of creation into nature’s own beasts: ancient dragons, legendary creatures, and races lost to mortal memory.\n\nAmissa, the Land of Life (PvE), shelters the peaceful — tribes who farm, tame, and live in harmony. But ancient ruins whisper secrets of a lost civilization.\n\nSvartalfheim Premium and Astraeos (PvP) are brutal and dark — domains where clans clash, castles rise, and mythical beasts rule.\n\nThe legend speaks of Tek Artifacts, relics from a fallen future. They cannot be crafted… only unlocked by defeating the Ancient Guardians.\n\nWill you choose peace and mystery — or war and glory?\n\nThe legend of Medieval Ark RP has just begun..."
+}
+]
+},
+{
+"layout": 1,
+"buttontext": "Server Specs",
+"imageurl": "https://i.imgur.com/250fY57.jpg",
+"content": [
+{
+"title": "⚙️ Server Specifications",
+"text": "- Maps: Amissa (PvE), Svartalfheim Premium (PvP), Astraeos (PvP)\n- Creatures: Fantasy + vanilla dinos\n- PvE/PvP separation\n- Wild Dino Minimum Levels:\n - PvE: 150 (normal), 180 (shiny)\n - PvP: 250 (normal), 280 (shiny)\n- Auto Engrams (Medieval only)\n- No Electronics – replaced with silica pearls + metal\n- Tek Locked – only unlockable through boss fights\n\nCore Mods:\n- Medieval Structures\n- Marnii RP Expansion\n- Draconic Creatures\n- Discovery World (dinos only)\n- Custom Dino Levels\n- Cyber’s Nanny & Collector\n- WBUI2 Interface"
+}
+]
+},
+{
+"layout": 1,
+"buttontext": "How to Play",
+"imageurl": "https://i.imgur.com/250fY57.jpg",
+"content": [
+{
+"title": "🧭 Getting Started",
+"text": "1. Join the Discord for server rules and guidance\n2. Choose your map: peaceful Amissa or deadly PvP worlds\n3. Create a character fitting the medieval world (no tech!)\n4. Build, trade, ally — or wage war across kingdoms\n5. Seek out Tek relics by facing the Ancient Guardians\n\n🕊️ Embrace peace and ancient secrets on Amissa…\n🔥 Or carve your name in blood across Svartalfheim and Astraeos."
+}
+]
+},
+{
+"layout": 1,
+"buttontext": "🇮🇹 Benvenuto",
+"imageurl": "https://i.imgur.com/250fY57.jpg",
+"content": [
+{
+"title": "🏰 Benvenuto su Medieval Ark RP",
+"text": "Un server fantasy medievale immersivo per ARK: Survival Ascended.\n\n🔗 Unisciti al nostro Discord: https://discord.gg/hzyMrwNTD4\n\nSopravvivi, addestra, costruisci. La tua leggenda inizia ora..."
+}
+]
+},
+{
+"layout": 1,
+"buttontext": "🇮🇹 Lore",
+"imageurl": "https://i.imgur.com/250fY57.jpg",
+"content": [
+{
+"title": "🌍 La Frattura del Mondo – Lore Ufficiale",
+"text": "In un’era dimenticata, il mondo fu diviso in varie grandi isole, ognuna protetta da forze primordiali. Temendo l’ambizione dell’uomo, gli Dei infusero il potere della creazione nelle creature stesse della natura: draghi, bestie leggendarie e razze dimenticate.\n\nAmissa, la Terra della Vita (PvE), accoglie i pacifici, tra coltivazioni, addomesticamenti e misteriose rovine da esplorare.\n\nSvartalfheim e Astraeos (PvP) sono terre oscure, dominate da clan in guerra, castelli e mostri mitologici.\n\nLe antiche reliquie Tek, resti di un’epoca perduta, possono essere ottenute solo sconfiggendo i Grandi Guardiani.\n\nLa tua leggenda è appena cominciata..."
+}
+]
+},
+{
+"layout": 1,
+"buttontext": "🇮🇹 Regole",
+"imageurl": "https://i.imgur.com/250fY57.jpg",
+"content": [
+{
+"title": "📜 Regolamento del Regno",
+"text": "⚔️ Comportamento:\n- Rispetto assoluto tra giocatori. Vietati insulti, razzismo, molestie.\n- RP incoraggiato ma non obbligatorio. Vietato rompere l'immersione.\n- Niente griefing o spawn killing.\n\n🌿 Zona PvE (Amissa):\n- Vietati raid e uccisioni di dino passivi.\n- Rispetta i territori.\n- Non bloccare risorse o note.\n\n🩸 Zone PvP:\n- Raid consentiti solo online (raid offline disabilitati).\n- Vietato spam di fondamenta.\n- Combatti con onore.\n\n🏰 Costruzioni:\n- Solo stile medievale.\n- No strutture moderne o tech.\n- Taming pen temporanei vanno rimossi.\n\n🐉 Creature:\n- Niente furto di taming in corso.\n- No parcheggi in zone pubbliche o sacre.\n- I livelli min/max sono indicati nella scheda “Specifiche del server”.\n\n⚖️ Giustizia:\n- Sanzioni: avviso, prigione RP, ban.\n- Punizioni in stile RP possibili (esilio, processo).\n\n🕊️ Vivi con onore. Proteggi ciò che costruisci. Rispetta le terre che abiti."
+}
+]
+},
+{
+"layout": 1,
+"buttontext": "🇮🇹 Come Iniziare",
+"imageurl": "https://i.imgur.com/250fY57.jpg",
+"content": [
+{
+"title": "🧭 Come Iniziare",
+"text": "1. Unisciti al Discord e leggi le regole\n2. Scegli la mappa (PvE o PvP)\n3. Crea un personaggio coerente con l’ambientazione\n4. Costruisci, commercia, alleati, esplora\n5. Affronta i boss per sbloccare i manufatti Tek\n\n🕊️ Pace e mistero ti attendono su Amissa...\n⚔️ ...o gloria e battaglia su Svartalfheim e Astraeos."
+}
+]
+}
+],
+"links": [
+{
+"text": "Discord",
+"url": "https://discord.gg/hzyMrwNTD4"
+},
+{
+"text": "Wiki",
+"url": "https://wiki.wbui2.de"
+},
+{
+"text": "CurseForge",
+"url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
+}
+],
+"version": 2
+}
+
+
+Pub: 25 Apr 2025 11:08 UTC
+Edit: 25 Apr 2025 11:41 UTC
+Views: 1
+new·what·how·langs·contacts
